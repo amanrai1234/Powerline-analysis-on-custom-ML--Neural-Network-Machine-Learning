@@ -1,0 +1,40 @@
+column name,description
+index,Index
+Job Title,"The title of job, eg. Data scientist, junior data scientist, senior data scientist etc"
+Job Description,Tells us what qualities that company want and what is expected out of the job title
+Rating,It gives the rating of the company
+Company Name,Name of the company
+Location,Location of the job
+Headquarters,Location of headquarter of the company
+Size,Range of number of employee working in the company
+Founded,Company founded in year
+Type of ownership,"Tells us if the company is private, public or government owned"
+Industry,"Industry like IT industry, Pharmaceutical industry etc"
+Sector,Sector in which company works
+Revenue,Total revennue of the company per year
+Competitors,Current competitors of the company
+Hourly,1: If salary was reported in hourly rate. 0: Otherwise
+Employer provided,1: If the salary was provided by the employer 0: Otherwise
+Avg Salary(K),Average salary reported for the job in a particular company.
+company_txt,It contains the name of the company.
+Job Location,Cleaned job location (State) column
+Age,Age of the company (in yrs)
+Python,1: If Python skill is required 0: Otherwise
+spark,1: If Spark skill is required 0: Otherwise
+aws,1: If AWS skill is required 0: Otherwise
+excel,1: If Excel skill is required 0: Otherwise
+sql,1: If Excel SQL is required 0: Otherwise
+sas,1: If SAS skill is required 0: Otherwise
+keras,1: If Keras skill is required 0: Otherwise
+pytorch,1: If Pytorch skill is required 0: Otherwise
+scikit,1: If Scikit skill is required 0: Otherwise
+tensor,1: If Tensor skill is required 0: Otherwise
+hadoop,1: If Hadoop skill is required 0: Otherwise
+tableau,1: If Tableau skill is required 0: Otherwise
+bi,1: If PowerBi skill is required 0: Otherwise
+flink,1: If Flink skill is required 0: Otherwise
+mongo,1: If MangoDB skill is required 0: Otherwise
+google_an,1: If Google analytics certificate is required 0: Otherwise
+job_title_sim,Simplified job title
+seniority_by_title,Seniority in title
+Degree,M: If the job title requires it or provide experience years for having it. P: If the job title requires it or provide experience years for having it.
