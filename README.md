@@ -3,11 +3,9 @@
 
 
 # PART 1:
-In this particular assignment we are tasked to complete, the same procedure as
-assignment 2 and then compare it with the new model that we are tasked to 
-implement. Here we are tasked to build at least three different MLP(multi-layer 
-perceptron’s) and then we are tasked to compare the performance of the three 
-models and the assignment 2(linear regression).
+In this task I am going to comapre the  linear regression and at least three different MLP(multi-layer 
+perceptron’s) and then I am comparing the performance of the three 
+models and linear regression.
 
 
 # Dataset: 
